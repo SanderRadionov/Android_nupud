@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tallinn</string>
+    <string name="loomaaed">Loomaaed</string>
+    <string name="kino">Kino</string>
+    <string name="lõbustuspark">Lõbustuspark</string>
+    <string name="veepark">Veepark</string>
+    <string name="muuseum">Muuseum</string>
+</resources>
